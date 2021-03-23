@@ -23,15 +23,14 @@ some people to ask for help if any problem happened:
 
 [click here to go to my github website ](https://github.com/abdalmajeed-zeyad/Reading-notes)
 
-- [x] Abdu's cat
+
+![it is just a funny cat ](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
 
-![it is just a funny cat ](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
+**Here’s a simple illustration highlighting the differences between a fixed and a growth mindset:**
 
-As abdu  said:
-
-> coding is exciting to  do 
+![fixed and growth mind set](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
 Abdu's favorite fruit:
 
