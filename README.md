@@ -14,22 +14,23 @@ Growth mindset is the mentality that works for development rather than focusing 
 this project is for some notes!
 
 _Abdu **Addition**_
-
+some people to ask for help if any problem happened: 
 * Abdullah 
 * Bashar
 * Khaled
 
-[Google](https://www.google.com/)
 
-- [x] Abdu's addition
+[click here to go to my github website ](https://github.com/abdalmajeed-zeyad/Reading-notes)
+
+- [x] Abdu's cat
 
 
-![funny cat ](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
+![it is just a funny cat ](https://c.files.bbci.co.uk/12A9B/production/_111434467_gettyimages-1143489763.jpg)
 
 
 As abdu  said:
 
-> life is life
+> coding is exciting to  do 
 
 
 1. apple 
@@ -41,7 +42,7 @@ As abdu  said:
 
 
 sunday | monday
------------- | -------------
+-------| -------
 german | english
 sports | watch TV
 
