@@ -1,4 +1,12 @@
+
 # Reading-notes
+
+growth mindset is the mentality that works for development rather than focusing on others. 
+
+ how to keep yourself in a growth mindset :
+ * wake up early. 
+ * focus on your goals.
+ * work hrad.
 
 
 this project is for some notes!
