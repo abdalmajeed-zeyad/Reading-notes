@@ -1,7 +1,8 @@
 
 # Reading-notes
 
-Growth mindset is the mentality that works for development rather than focusing on others. 
+Growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning
+
 
  How to keep yourself in a growth mindset :
  * Wake up early. 
