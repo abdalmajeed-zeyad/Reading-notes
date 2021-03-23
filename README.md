@@ -33,6 +33,7 @@ As abdu  said:
 
 > coding is exciting to  do 
 
+Abdu's favorite fruit:
 
 1. apple 
 1. bananna 
@@ -41,7 +42,7 @@ As abdu  said:
    1. small 
 
 
-
+Abdu's scheduale:
 sunday | monday
 -------| -------
 german | english
