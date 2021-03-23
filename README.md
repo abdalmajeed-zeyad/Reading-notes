@@ -35,7 +35,7 @@ Perseverance, gumption traps, and maintaining a growth mindset
    1. Enough 
 
 
-Successful developer mindsit:
+Successful developer mindset:
 Growing at work | Growing outside work
 ----------------| --------------------
 
