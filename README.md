@@ -32,13 +32,13 @@ some people to ask for help if any problem happened:
 
 ![fixed and growth mind set](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-Abdu's favorite fruit:
+Perseverance, gumption traps, and maintaining a growth mindset
 
-1. apple 
-1. bananna 
-1. mango 
-   1. big 
-   1. small 
+1. Challenges 
+1. Obstacles 
+1. Effort 
+   1. Consistent 
+   1. Enough 
 
 
 Abdu's scheduale:
