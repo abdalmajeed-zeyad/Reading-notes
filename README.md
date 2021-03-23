@@ -12,13 +12,7 @@
 
 .........................
 
-this project is for some notes!
 
-_Abdu **Addition**_
-some people to ask for help if any problem happened: 
-* Abdullah 
-* Bashar
-* Khaled
 
 
 [click here to go to my github website ](https://github.com/abdalmajeed-zeyad/Reading-notes)
