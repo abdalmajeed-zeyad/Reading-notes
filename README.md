@@ -35,10 +35,9 @@ Perseverance, gumption traps, and maintaining a growth mindset
    1. Enough 
 
 
-Abdu's scheduale:
-sunday | monday
--------| -------
-german | english
-sports | watch TV
+Successful developer mindsit:
+Growing at work | Growing outside work
+----------------| --------------------
+
 
 
