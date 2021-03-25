@@ -1,3 +1,7 @@
+*click here to go back to*  [README](README.md)
+
+
+
 Javascript Basics
 Including JavaScript in an HTML Page
 <script type="text/javascript">
@@ -13,6 +17,7 @@ Variables
 var, const, let
 
 
+
 var
 The most common variable. Can be reassigned but only accessed within a function. Variables
 defined with var move to the top when code is executed.
@@ -26,10 +31,7 @@ let
 Similar to const, however, let variable can be reassigned but not re-declared.
 Data Types
 var age = 23
-Numbers
-var x
-Variables
-WebsiteSetup.org - Beginner’s Javascript Cheat Sheet 2
-var a = "init"
-Text (strings)
-var b = 1 + 2 + 3
+
+
+
+
