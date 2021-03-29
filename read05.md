@@ -5,18 +5,23 @@ foor and while statments"
 Initialization 
 condition 
 update 
-..........................
+
+
+
 comparison peration 
 == equal to 
 != is not equal to
 === strict equal to 
 !== strict not equal to 
-.....................
->  greater than
+
+
+
+->  greater than-
 <  less than
 >= greater than or equal
 <= less than or 
-...................
+
+
 logical operator
 logical and &&
 logical or 
