@@ -20,7 +20,9 @@ Code 102 Reading Notes
 |read 06        |[read06](read06.md)|
 
 
+
 Code 201 Reading Notes
+
 |Assignments     |       links|
 ----------------|-----------------|
 |class-01      | [class-01](class-01.md)|
