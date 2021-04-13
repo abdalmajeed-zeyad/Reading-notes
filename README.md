@@ -43,3 +43,5 @@ Code 201 Reading Notes
 |class-06         |[class-06](class-06.md)|
 |class-07        |[class-07](class-07.md)|
 |class-08        |[class-08](class-08.md)|
+|class-09       |[class-09](class-09.md)|
+|class-10      |[class-10](class-10.md)|
