@@ -1,20 +1,16 @@
 
 # Reading-notes
 
-## About the developer...
+## About the developer
 
- I am Abdelmajeed and I am a junior software developer. 
+ I am Abdelmajeed and I am a junior software developer.
  I am 25 years old, and I can speak 3 languages: Arabic, English and german.
-
 
 |websites     |       links|
 |----------------|-----------------|
-|Guessing game      | [about me  ](https://abdu-zeyad.github.io/about-me/)|
+|Guessing game      | [about me](https://abdu-zeyad.github.io/about-me/)|
 |Food   |[Food](https://abdu-zeyad.github.io/food/)|
 |Soccer Gamer      |[SoccerGamer](https://abdu-zeyad.github.io/mywebsites/)|
-
-
-
 
 Code 102 Reading Notes
 
@@ -28,10 +24,7 @@ Code 102 Reading Notes
 |read 05         |[read05](read05.md)|
 |read 06        |[read06](read06.md)|
 
-
-
 Code 201 Reading Notes
-
 
 |Assignments     |       links|
 |----------------|-----------------|
@@ -51,3 +44,16 @@ Code 201 Reading Notes
 |class-14a    |[class-14a](class-14a.md)|
 |class-14b    |[class-14b](class-14b.md)|
 
+Code 301 Reading Notes
+
+|Assignments     |       links|
+|----------------|-----------------|
+|class-01      | [class-01](class-31.md)|
+|class-02    |[class-02](class-32.md)|
+|class-03       |[class-03](class-33.md)|
+|class-04        |[class-04](class-34.md)|
+|class-05         |[class-05](class-35.md)|
+|class-06         |[class-06](class-36.md)|
+|class-07        |[class-07](class-37.md)|
+|class-08        |[class-08](class-38.md)|
+|class-09       |[class-09](class-39.md)|
