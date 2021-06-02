@@ -15,7 +15,6 @@ Abdelmajed is  a junior software developer.
 |Food   |[Food](https://abdu-zeyad.github.io/food/)|
 |Soccer Gamer      |[SoccerGamer](https://abdu-zeyad.github.io/mywebsites/)|
 
-
 ## Code 102 Reading Notes
 
 |Assignments     |       links|
