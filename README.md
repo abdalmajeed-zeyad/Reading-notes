@@ -1,18 +1,22 @@
 
-# Reading-notes
+# **Reading-notes**
 
-## About the developer
+## ***About the developer***
 
- I am Abdelmajeed and I am a junior software developer.
+Abdelmajed is  a junior software developer.
  I am 25 years old, and I can speak 3 languages: Arabic, English and german.
+![enjoy](https://thumbs.dreamstime.com/z/big-tech-sign-welcome-big-tech-sign-welcome-writing-welcome-white-ground-100411988.jpg "Image Title")
 
-|websites     |       links|
+## **My Projects**
+
+|Projects     |       links|
 |----------------|-----------------|
 |Guessing game      | [about me](https://abdu-zeyad.github.io/about-me/)|
 |Food   |[Food](https://abdu-zeyad.github.io/food/)|
 |Soccer Gamer      |[SoccerGamer](https://abdu-zeyad.github.io/mywebsites/)|
 
-Code 102 Reading Notes
+
+## Code 102 Reading Notes
 
 |Assignments     |       links|
 |----------------|-----------------|
@@ -24,7 +28,7 @@ Code 102 Reading Notes
 |read 05         |[read05](read05.md)|
 |read 06        |[read06](read06.md)|
 
-Code 201 Reading Notes
+## Code 201 Reading Notes
 
 |Assignments     |       links|
 |----------------|-----------------|
@@ -44,7 +48,7 @@ Code 201 Reading Notes
 |class-14a    |[class-14a](class-14a.md)|
 |class-14b    |[class-14b](class-14b.md)|
 
-Code 301 Reading Notes
+## Code 301 Reading Notes
 
 |Assignments     |       links|
 |----------------|-----------------|
