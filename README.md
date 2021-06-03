@@ -11,6 +11,7 @@ Abdelmajed is  a junior software developer.
 
 |Projects     |       links|
 |----------------|-----------------|
+|Abdelmajed Portfolio     |[Abdelmajed Portfolio](https://abdu-zeyad.github.io/Portfolio-Prep/)|
 |Guessing game      | [about me](https://abdu-zeyad.github.io/about-me/)|
 |Food   |[Food](https://abdu-zeyad.github.io/food/)|
 |Soccer Gamer      |[SoccerGamer](https://abdu-zeyad.github.io/mywebsites/)|
