@@ -18,7 +18,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 ## Code 102 Reading Notes
 
 <details>
-<summary> =></summary>
+<summary> ..</summary>
 <br/>
 
 | Assignments | links                 |
@@ -36,7 +36,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 ## Code 201 Reading Notes
 
 <details>
-<summary>=>
+<summary>..
 </summary>
 <br/>
 
@@ -63,7 +63,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 ## Code 301 Reading Notes
 
 <details>
-<summary>=></summary>
+<summary>..</summary>
 <br/>
 
 | Assignments | links                   |
@@ -89,6 +89,8 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 ## Code 401 Reading Notes
 
 <details>
+<summary>..</summary>
+<br/>
 
 | Assignments | links                    |
 | ----------- | ------------------------ |
