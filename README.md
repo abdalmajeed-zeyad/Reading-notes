@@ -110,16 +110,4 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 | class-14    | [class-14](class-414.md) |
 | class-15    | [class-15](class-415.md) |
 
-<ul>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-<li> [class-15](class-415.md)</li>
-
-<ul>
-
 </details>
