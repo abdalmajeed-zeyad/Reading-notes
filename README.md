@@ -15,8 +15,10 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 | Food                 | [Food](https://abdu-zeyad.github.io/food/)                           |
 | Soccer Gamer         | [SoccerGamer](https://abdu-zeyad.github.io/mywebsites/)              |
 
+## Code 102 Reading Notes
+
 <details>
-<summary> Code 102 Reading Notes</summary>
+<summary> </summary>
 
 | Assignments | links                 |
 | ----------- | --------------------- |
@@ -30,8 +32,10 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 </details>
 
+## Code 201 Reading Notes
+
 <details>
-<summary>Code 201 Reading Notes
+<summary>
 </summary>
 
 | Assignments | links                     |
@@ -54,8 +58,10 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 </details>
 
+## Code 301 Reading Notes
+
 <details>
-<summary>Code 301 Reading Notes</summary>
+<summary></summary>
 
 | Assignments | links                   |
 | ----------- | ----------------------- |
@@ -77,8 +83,10 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 </details>
 
+## Code 401 Reading Notes
+
 <details>
-<summary>Code 401 Reading Notes</summary>
+<summary></summary>
 
 | Assignments | links                    |
 | ----------- | ------------------------ |
