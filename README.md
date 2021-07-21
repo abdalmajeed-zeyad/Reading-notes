@@ -91,7 +91,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 <details>
 <summary>=></summary>
 <br/>
-
+---------------------------------------------
 | Assignments | links                    |
 | ----------- | ------------------------ |
 | class-01    | [class-01](class-401.md) |
@@ -109,5 +109,6 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 | class-13    | [class-13](class-413.md) |
 | class-14    | [class-14](class-414.md) |
 | class-15    | [class-15](class-415.md) |
+-------------------------------------------
 
 </details>
