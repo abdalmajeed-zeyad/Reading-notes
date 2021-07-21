@@ -19,6 +19,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 <details>
 <summary> =></summary>
+<br/>
 
 | Assignments | links                 |
 | ----------- | --------------------- |
@@ -37,6 +38,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 <details>
 <summary>=>
 </summary>
+<br/>
 
 | Assignments | links                     |
 | ----------- | ------------------------- |
@@ -62,6 +64,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 <details>
 <summary>=></summary>
+<br/>
 
 | Assignments | links                   |
 | ----------- | ----------------------- |
@@ -87,6 +90,7 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 
 <details>
 <summary>=></summary>
+<br/>
 
 | Assignments | links                    |
 | ----------- | ------------------------ |
