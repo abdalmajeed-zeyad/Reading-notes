@@ -133,6 +133,8 @@ I am 25 years old, and I can speak 3 languages: Arabic, English and german.
 | class-40    | [class-40](class-440.md) |
 | class-41    | [class-41](class-441.md) |
 | class-42    | [class-42](class-442.md) |
-
+| class-43    | [class-43](class-443.md) |
+| class-44    | [class-44](class-444.md) |
+| class-45    | [class-45](class-445.md) |
 
 </details>
